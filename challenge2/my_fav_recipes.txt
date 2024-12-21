@@ -1,0 +1,3 @@
+Pancakes: Ingredients - flour, eggs, milk. Preparation time: 15 minutes.
+Chocolate Cake: Ingredients - cocoa, sugar, flour, eggs. Preparation time: 45 minutes.
+Caesar Salad: Ingredients - lettuce, croutons, parmesan cheese. Preparation time: 10 minutes.
